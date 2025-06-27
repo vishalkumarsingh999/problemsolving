@@ -3,7 +3,8 @@
 .idea
 # Log file
 *.log
-
+dist
+build
 # BlueJ files
 *.ctxt
 
